@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f15ead09fc5a4347a672c05ba4efe36
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - "0123456789.\uFFE5cm\r\n\u6A21\u578B\u5B9A\u5236\r\n\u8D50\u6211\u4E00\u4E2A\u540D\u5B57\u5427\uFF01\r\n\u653E\u5165\u8D2D\u7269\u8F66\u7ACB\u5373\u8D2D\u4E70\u77F3\u818F\u5149\u654F\u6811\u8102\r\n\u6211\u7684\u5DE5\u5382\u5206\u4EAB\u6A21\u578B\u8D2D\u4E70"
+  customCharacters: "0123456789.\uFFE5cm\u6A21\u578B\u5B9A\u5236\u8D50\u6211\u4E00\u4E2A\u540D\u5B57\u5427\uFF01\u653E\u5165\u8D2D\u7269\u8F66\u7ACB\u5373\u4E70\u77F3\u818F\u5149\u654F\u6811\u8102\u7684\u5DE5\u5382\u5206\u4EAB"
+  fontRenderingMode: 0
+  userData: 

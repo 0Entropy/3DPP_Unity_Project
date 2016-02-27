@@ -1,0 +1,10 @@
+﻿{
+"str_fail_to_save":"没什么变化哦，\n玩一玩再存吧!",
+"str_fail_to_share":"分享失败",
+"str_success_to_share":"分享成功",
+"str_cancle_to_share":"分享取消",
+"str_client_app_not_installed":"未安装分享\n客户端",
+"str_default_to_share":"分享失败，\n原因不明。",
+"str_success_to_add_cart":"加入购物车成功"
+
+}
